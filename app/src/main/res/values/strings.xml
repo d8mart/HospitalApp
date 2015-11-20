@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HospitalApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_log_in_view">LogInView</string>
+    <string name="title_activity_professor_interface">ProfessorInterface</string>
+    <string name="title_activity_student_interface">StudentInterface</string>
+    <string name="title_activity_coordinator_interface">CoordinatorInterface</string>
+    <string name="title_activity_create_account">CreateAccount</string>
+    <string name="title_activity_create_course">CreateCourse</string>
+    <string name="title_activity_all_prof_courses">AllProfCourses</string>
+    <string name="title_activity_course_register">CourseRegister</string>
+    <string name="title_activity_st_courses">StCourses</string>
+    <string name="title_activity_students_in_course">StudentsInCourse</string>
+    <string name="title_activity_rubrics">Rubrics</string>
+</resources>
